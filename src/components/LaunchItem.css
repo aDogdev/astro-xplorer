@@ -1,0 +1,47 @@
+.launch-card {
+  max-width: 600px;
+  width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #242424;
+  padding: 20px;
+  border-radius: 10px;
+  gap: 5px;
+}
+
+.launch-card section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.mission-name {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mission-name h3 {
+  margin: 0;
+}
+
+.mission-name h3 strong {
+  color: #ffb300;
+}
+
+.mission-date {
+  color: #999;
+}
+
+.mission-button {
+  width: 8rem;
+  margin: 0;
+  color: #ffb300;
+  background-color: transparent;
+}
+
+.mission-button:hover {
+  color: #242424;
+}
