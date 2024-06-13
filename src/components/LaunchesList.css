@@ -1,0 +1,17 @@
+.launches-list {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.launches-card {
+  max-width: 600px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  background-color: #242424;
+  padding: 20px;
+}
+
+.launches-card h3 {
+  margin: 0;
+}
