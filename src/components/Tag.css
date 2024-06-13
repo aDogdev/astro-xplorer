@@ -1,0 +1,16 @@
+.Success,
+.Failure {
+  text-align: center;
+  width: 6rem;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #222;
+}
+
+.Success {
+  color: seagreen;
+}
+
+.Failure {
+  color: indianred;
+}
