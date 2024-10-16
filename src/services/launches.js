@@ -6,8 +6,8 @@ async function getAllLaunches() {
     const res = await fetch(`${API_URL}/launches`);
     const data = await res.json();
     return data;
-  } catch (error) {
-    console.error(error);
+  } catch (e) {
+    console.error(e.message);
     return launches;
   }
 }
@@ -17,8 +17,8 @@ async function getLaunchByFlightNumber(flightNumber) {
     const res = await fetch(`${API_URL}/launches/${flightNumber}`);
     const data = await res.json();
     return data;
-  } catch (error) {
-    console.error(error);
+  } catch (e) {
+    console.error(e.message);
   }
 }
 
