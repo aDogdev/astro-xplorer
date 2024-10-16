@@ -1,5 +1,5 @@
-.Success,
-.Failure {
+.success,
+.failure {
   text-align: center;
   width: 6rem;
   padding: 10px;
@@ -7,10 +7,10 @@
   background-color: #222;
 }
 
-.Success {
+.success {
   color: seagreen;
 }
 
-.Failure {
+.failure {
   color: indianred;
 }
