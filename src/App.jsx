@@ -1,15 +1,11 @@
 import { Header } from "./components/Header";
-import { useState, useEffect } from "react";
-import { getAllLaunches } from "./services/launches";
 import "./App.css";
 import { LaunchesList } from "./components/LaunchesList";
+import { useLaunches } from "./hooks/useLaunches";
 
 function App() {
-  const [launches, setLaunches] = useState([]);
+  const { launches } = useLaunches();
 
-  useEffect(() => {
-    getAllLaunches().then((data) => setLaunches(data));
-  }, []);
   return (
     <>
       <Header />
