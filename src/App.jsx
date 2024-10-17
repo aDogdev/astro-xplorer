@@ -4,12 +4,18 @@ import { LaunchesList } from "./components/LaunchesList";
 import { useLaunches } from "./hooks/useLaunches";
 
 function App() {
-  const { launches } = useLaunches();
+  const { launches, loading, error } = useLaunches();
 
   return (
     <>
       <Header />
-      <LaunchesList launches={launches} />
+      {error ? (
+        `:( ${error.message}`
+      ) : loading ? (
+        <p>Loading...</p>
+      ) : (
+        <LaunchesList launches={launches} />
+      )}
     </>
   );
 }

@@ -1,5 +1,4 @@
-import launches from "../mocks/launches.json";
-const API_URL = "https://api.spacexdata.com/v5";
+  const API_URL = "https://api.spacexdata.com/v5";
 
 async function getAllLaunches() {
   try {
@@ -8,7 +7,6 @@ async function getAllLaunches() {
     return data;
   } catch (e) {
     console.error(e.message);
-    return launches;
   }
 }
 

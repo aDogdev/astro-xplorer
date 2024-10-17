@@ -1,4 +1,5 @@
 import { Tag } from "./Tag";
+// import offlineLaunches from "../mocks/launches.json";
 import "./LaunchItem.css";
 
 function LaunchItem({ launch }) {
@@ -17,4 +18,16 @@ function LaunchItem({ launch }) {
   );
 }
 
-export { LaunchItem };
+function Launches({ launches }) {
+  return (
+    <>
+      {launches
+        ? launches.map((launch) => (
+            <LaunchItem key={launch.id} launch={launch} />
+          ))
+        : "No launches"}
+    </>
+  );
+}
+
+export { LaunchItem, Launches };
