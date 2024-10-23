@@ -3,3 +3,18 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+:root,
+::backdrop {
+  --text-red: #ff0000;
+  --text-green: #27b163;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root,
+  ::backdrop {
+    color-scheme: dark;
+    --text-red: #b22222;
+    --text-green: #2e8b57;
+  }
+}

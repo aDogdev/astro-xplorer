@@ -10,12 +10,12 @@
 
   /* Default (light) theme */
   --bg: #fff;
-  --accent-bg: #f5f7ff;
+  --accent-bg: #fff6e2;
   --text: #212121;
   --text-light: #585858;
   --border: #898ea4;
-  --accent: #0d47a1;
-  --accent-hover: #1266e2;
+  --accent: #ffb300;
+  --accent-hover: #ffb300;
   --accent-text: var(--bg);
   --code: #d81b60;
   --preformatted: #444;
@@ -32,7 +32,6 @@
     --accent-bg: #2b2b2b;
     --text: #dcdcdc;
     --text-light: #ababab;
-    --accent: #ffb300;
     --accent-hover: #ffe099;
     --accent-text: var(--bg);
     --code: #f06292;
@@ -84,24 +83,23 @@ body > * {
 }
 
 /* Make the header bg full width, but the content inline with body */
-body > header {
+body > div > header {
   background-color: var(--accent-bg);
-  border-bottom: 1px solid var(--border);
   text-align: center;
   padding: 0 0.5rem 2rem 0.5rem;
   grid-column: 1 / -1;
 }
 
-body > header > *:only-child {
+body > div > header > *:only-child {
   margin-block-start: 2rem;
 }
 
-body > header h1 {
+body > div > header h1 {
   max-width: 1200px;
   margin: 1rem auto;
 }
 
-body > header p {
+body > div > header p {
   max-width: 40rem;
   margin: 1rem auto;
 }
@@ -111,7 +109,7 @@ main {
   padding-top: 1.5rem;
 }
 
-body > footer {
+body > div > footer {
   margin-top: 4rem;
   padding: 2rem 1rem 1.5rem 1rem;
   color: var(--text-light);

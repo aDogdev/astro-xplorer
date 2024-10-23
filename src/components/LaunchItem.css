@@ -3,8 +3,7 @@
   width: 40rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  background-color: #242424;
+  background-color: var(--accent-bg);
   padding: 20px;
   border-radius: 10px;
   gap: 5px;
@@ -20,7 +19,7 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  color: var(--text);
 }
 
 .mission-name h3 {
@@ -28,20 +27,20 @@
 }
 
 .mission-name h3 strong {
-  color: #ffb300;
+  color: var(--accent);
 }
 
 .mission-date {
-  color: #999;
+  color: var(--text-light);
 }
 
 .mission-button {
   width: 8rem;
   margin: 0;
-  color: #ffb300;
+  color: var(--accent);
   background-color: transparent;
 }
 
 .mission-button:hover {
-  color: #242424;
+  color: var(--accent-bg);
 }
