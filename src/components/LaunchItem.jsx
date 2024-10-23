@@ -1,5 +1,4 @@
 import { Tag } from "./Tag";
-// import offlineLaunches from "../mocks/launches.json";
 import "./LaunchItem.css";
 
 function LaunchItem({ launch }) {
