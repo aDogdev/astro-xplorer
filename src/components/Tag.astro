@@ -1,0 +1,20 @@
+---
+interface Props {
+  success: boolean | null;
+}
+
+const { success } = Astro.props;
+const missionState = success ? "success" : "failure";
+---
+
+<span
+  class:list={[
+    "text-xs font-semibold mr-2 px-2.5 py-0.5 rounded max-w-fit text-center text-black",
+    {
+      "bg-green-400": success,
+      "bg-red-400": !success,
+    },
+  ]}
+>
+  {missionState.toUpperCase()}
+</span>
