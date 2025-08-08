@@ -1,3 +1,3 @@
 # AstroXplorer
 
-Astro project using space-x API.
+Astro project using SpaceX API.
