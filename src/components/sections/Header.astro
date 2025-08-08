@@ -4,8 +4,16 @@
       Astro<span class="text-amber-400">X</span>plorer
     </h1>
   </a>
-  <form class="flex gap-2.5">
-    <!-- <input type="search" placeholder="Starlink, Falcon, Galaxy..." /> -->
-    <!-- <button type="submit">Search</button> -->
+  <form role="search" class="flex gap-2.5" aria-label="Site search">
+    <input
+      type="search"
+      name="q"
+      disabled
+      placeholder="Starlink, Falcon, Galaxy..."
+      class="px-3 py-2 rounded bg-neutral-700 text-white placeholder-neutral-300"
+    />
+    <button type="submit" class="px-3 py-2 rounded bg-amber-500 text-black font-medium" disabled>
+      Search
+    </button>
   </form>
 </header>
