@@ -99,7 +99,7 @@ export type Links = {
 };
 
 export type Flickr = {
-  small: any[];
+  small: string[];
   original: string[];
 };
 
