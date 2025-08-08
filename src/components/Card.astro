@@ -14,7 +14,7 @@ const { id, name, flightNumber, img, success, date } = Astro.props;
 
 <li class="flex flex-col w-full bg-[#2b2b2b] p-5 gap-2.5 rounded-md">
   <a href={`/launch/${id}`}>
-    <img transition:name={`img-${name}`} src={img} alt={name} />
+    {img && <img transition:name={`img-${name}`} src={img} alt={name} />}
     <section class="flex w-full justify-between">
       <Tag success={success} />
       <span class="mission-date">{date.toString().slice(0, 10)}</span>
