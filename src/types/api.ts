@@ -1,7 +1,7 @@
 export type Launch = {
   fairings: Fairings | null;
   links: Links;
-  static_fire_date_utc: Date | null;
+  static_fire_date_utc: string | null;
   static_fire_date_unix: number | null;
   net: boolean;
   window: number | null;
@@ -16,9 +16,9 @@ export type Launch = {
   launchpad: Launchpad;
   flight_number: number;
   name: string;
-  date_utc: Date;
+  date_utc: string;
   date_unix: number;
-  date_local: Date;
+  date_local: string;
   date_precision: DatePrecision;
   upcoming: boolean;
   cores: Core[];
