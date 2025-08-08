@@ -1,3 +1,3 @@
-# SpaceXplorer
+# AstroXplorer
 
-Training project using space-x API.
+Astro project using space-x API.

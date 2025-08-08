@@ -1,0 +1,27 @@
+---
+import Tag from "./Tag.astro";
+interface Props {
+  id: string;
+  name: string;
+  img: string | null;
+  success: boolean | null;
+  flightNumber: number;
+  date: Date;
+}
+
+const { id, name, flightNumber, img, success, date } = Astro.props;
+---
+
+<li class="flex flex-col w-full bg-[#2b2b2b] p-5 gap-2.5 rounded-md">
+  <a href={`/launch/${id}`}>
+    <img transition:name={`img-${name}`} src={img} alt={name} />
+    <section class="flex w-full justify-between">
+      <Tag success={success} />
+      <span class="mission-date">{date.toString().slice(0, 10)}</span>
+    </section>
+    <h3 transition:name={`mission-${name}`}>
+      Mission <strong>{name}</strong>{" "}
+      <small>({date.toString().slice(0, 4)})</small>
+    </h3>
+  </a>
+</li>

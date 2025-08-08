@@ -1,0 +1,53 @@
+---
+import Tag from "@/components/Tag.astro";
+import Layout from "@/layouts/Layout.astro";
+import { getLaunchBy } from "@/services/launches";
+import type { Launch } from "@/types/api";
+
+export const prerender = false;
+
+const { id } = Astro.params;
+let launch: Launch | null = null;
+if (id) {
+  launch = await getLaunchBy({ id });
+  console.log("Launch data fetched:", launch?.id);
+}
+---
+
+<Layout title={`Launch #${launch?.flight_number}`}>
+  {
+    launch ? (
+      <article class="p-4 max-w-3xl mx-auto">
+        {launch.links?.patch?.small && (
+          <img
+            transition:name={`img-${launch.name}`}
+            src={launch.links.patch.small}
+            alt={`Patch for ${launch.name}`}
+            class="max-w-xs mx-auto mb-4"
+          />
+        )}
+        <h2 transition:name={`mission-${launch.name}`} class="text-2xl font-bold mb-2">
+          Launch #{launch.flight_number} - {launch.name}
+        </h2>
+        <div class="mb-4">
+          <Tag success={launch.success} />
+
+          <span class="ml-2">{new Date(launch.date_utc).toLocaleDateString()}</span>
+        </div>
+        {launch.details && <p class="mb-4">{launch.details}</p>}
+        {launch.links?.webcast && (
+          <div class="mb-4">
+            <a href={launch.links.webcast} target="_blank" class="text-blue-400 hover:underline">
+              Watch webcast
+            </a>
+          </div>
+        )}
+      </article>
+    ) : (
+      <article class="p-4 max-w-3xl mx-auto">
+        <h2 class="text-2xl font-bold mb-2">Launch not found</h2>
+        <p>Sorry, we couldn't find information for launch ID: {id}</p>
+      </article>
+    )
+  }
+</Layout>

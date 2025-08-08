@@ -1337,11 +1337,7 @@
     "failures": [],
     "details": "First launch under USAF's OSP 3 launch contract. First SpaceX launch to put a satellite to an orbit with an orbital altitude many times the distance to the Moon: Sun-Earth libration point L1. The first stage made a test flight descent to an over-ocean landing within 10 m (33 ft) of its intended target.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c906",
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed2f080df4000697c90c"
-    ],
+    "ships": ["5ea6ed2e080df4000697c906", "5ea6ed2f080df4000697c90b", "5ea6ed2f080df4000697c90c"],
     "capsules": [],
     "payloads": ["5eb0e4bdb6c3bb0006eeb1f7"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -1630,11 +1626,7 @@
     ],
     "details": "Launch performance was nominal until an overpressure incident in the second-stage LOX tank, leading to vehicle breakup at T+150 seconds. The Dragon capsule survived the explosion but was lost upon splashdown because its software did not contain provisions for parachute deployment on launch vehicle failure.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c906",
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed2f080df4000697c90c"
-    ],
+    "ships": ["5ea6ed2e080df4000697c906", "5ea6ed2f080df4000697c90b", "5ea6ed2f080df4000697c90c"],
     "capsules": ["5e9e2c5cf35918407d3b266c"],
     "payloads": ["5eb0e4beb6c3bb0006eeb1fc"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -1783,11 +1775,7 @@
     "failures": [],
     "details": "First launch of NASA and NOAA joint science mission under the NLS II launch contract (not related to NASA CRS or USAF OSP3 contracts). Last launch of the original Falcon 9 v1.1 launch vehicle. The Jason-3 satellite was successfully deployed to target orbit. SpaceX again attempted a recovery of the first stage booster by landing on an autonomous drone ship; this time located in the Pacific Ocean. The first stage did achieve a soft-landing on the ship, but a lockout on one of the landing legs failed to latch, so that the booster fell over and exploded.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ea6ed30080df4000697c912",
-      "5ea6ed30080df4000697c914"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ea6ed30080df4000697c912", "5ea6ed30080df4000697c914"],
     "capsules": [],
     "payloads": ["5eb0e4beb6c3bb0006eeb1fe"],
     "launchpad": "5e9e4502f509092b78566f87",
@@ -2028,11 +2016,7 @@
     "failures": [],
     "details": "Launched the JCSAT 14 communications satellite for Tokyo-based SKY Perfect JSAT Corp. JCSAT 14 will support data networks, television broadcasters and mobile communications users in Japan, East Asia, Russia, Oceania, Hawaii and other Pacific islands. This was the first time a booster successfully landed after a GTO mission.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c906",
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed2f080df4000697c90c"
-    ],
+    "ships": ["5ea6ed2e080df4000697c906", "5ea6ed2f080df4000697c90b", "5ea6ed2f080df4000697c90c"],
     "capsules": [],
     "payloads": ["5eb0e4bfb6c3bb0006eeb201"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -2513,11 +2497,7 @@
     "failures": [],
     "details": "Return-to-flight mission after the loss of Amos-6 in September 2016. Iridium NEXT will replace the original Iridium constellation, launched in the late 1990s. Each Falcon mission will carry 10 satellites, with a goal to complete deployment of the 66 plus 9 spare satellite constellation by mid 2018. The first two Iridium qualification units were supposed to ride a Dnepr rocket in April 2016 but were delayed, so Iridium decided to qualify the first batch of 10 satellites instead.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ea6ed30080df4000697c912",
-      "5ea6ed30080df4000697c915"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ea6ed30080df4000697c912", "5ea6ed30080df4000697c915"],
     "capsules": [],
     "payloads": ["5eb0e4c2b6c3bb0006eeb208"],
     "launchpad": "5e9e4502f509092b78566f87",
@@ -3141,11 +3121,7 @@
     "failures": [],
     "details": "First flight with titanium grid fins to improve control authority and better cope with heat during re-entry.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ea6ed2f080df4000697c911",
-      "5ea6ed30080df4000697c912"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ea6ed2f080df4000697c911", "5ea6ed30080df4000697c912"],
     "capsules": [],
     "payloads": ["5eb0e4c4b6c3bb0006eeb210"],
     "launchpad": "5e9e4502f509092b78566f87",
@@ -3588,11 +3564,7 @@
     "failures": [],
     "details": "Nineteenth comsat to GTO, also the fourth satellite launched for SES and second for Echostar. Third time a first stage booster will be reused.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed2f080df4000697c90d",
-      "5ea6ed30080df4000697c913"
-    ],
+    "ships": ["5ea6ed2f080df4000697c90b", "5ea6ed2f080df4000697c90d", "5ea6ed30080df4000697c913"],
     "capsules": [],
     "payloads": ["5eb0e4c5b6c3bb0006eeb216"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -3665,11 +3637,7 @@
     "failures": [],
     "details": "KoreaSat 5A is a Ku-band satellite capable of providing communication services from East Africa and Central Asia to southern India, Southeast Asia, the Philippines, Guam, Korea, and Japan. The satellite will be placed in GEO at 113Â° East Longitude, and will provide services ranging from broadband internet to broadcasting services and maritime communications.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c90d",
-      "5ea6ed2e080df4000697c908",
-      "5ea6ed30080df4000697c913"
-    ],
+    "ships": ["5ea6ed2f080df4000697c90d", "5ea6ed2e080df4000697c908", "5ea6ed30080df4000697c913"],
     "capsules": [],
     "payloads": ["5eb0e4c5b6c3bb0006eeb217"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -4043,11 +4011,7 @@
     "failures": [],
     "details": "The launch was a success, and the side boosters landed simultaneously at adjacent ground pads. Drone ship landing of the central core failed. Final burn to heliocentric mars-earth orbit was successful after the second stage and payload passed through the Van Allen belts.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c90c",
-      "5ea6ed2f080df4000697c90d",
-      "5ea6ed30080df4000697c913"
-    ],
+    "ships": ["5ea6ed2f080df4000697c90c", "5ea6ed2f080df4000697c90d", "5ea6ed30080df4000697c913"],
     "capsules": [],
     "payloads": ["5eb0e4c6b6c3bb0006eeb21c"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -5020,11 +4984,7 @@
     "failures": [],
     "details": "SpaceX's sixteenth flight of 2018 launched the Telstar 18v GEO communication satellite for Telesat, the second launch for the canadian company in a few months. The first stage was a new Falcon 9 V1.2 Block 5 which was successfully recovered on OCISLY.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ea6ed2f080df4000697c90d",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ea6ed2f080df4000697c90d", "5ea6ed2f080df4000697c90b"],
     "capsules": [],
     "payloads": ["5eb0e4c9b6c3bb0006eeb22b"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -5467,11 +5427,7 @@
     "failures": [],
     "details": "SpaceX's first flight of 2019 will be the eighth and final launch of its planned Iridium flights. Delivering 10 satellites to low earth orbit, this brings the total up to 75 and completes the Iridium NEXT constellation. This mission launches from SLC-4E at Vandenberg AFB. The booster is expected to land on JRTI.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ea6ed30080df4000697c912",
-      "5ea6ed30080df4000697c914"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ea6ed30080df4000697c912", "5ea6ed30080df4000697c914"],
     "capsules": [],
     "payloads": ["5eb0e4cab6c3bb0006eeb231"],
     "launchpad": "5e9e4502f509092b78566f87",
@@ -5798,11 +5754,7 @@
     "failures": [],
     "details": "SpaceX's 17th Commercial Resupply Services mission for NASA out of a total of 20 contracted flights, this mission brings essential supplies to the International Space Station using SpaceX's reusable Dragon 1 spacecraft. The external payloads for this mission include Orbital Carbon Observatory 3 and Space Test Program-Houston 6. The Falcon 9 launches from SLC-40 at Cape Canaveral AFS. The booster was expected to land at LZ-1, however, due to the ongoing investigation and clean-up following the Crew Dragon testing incident, it is likely to land on OCISLY instead.\n    ",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ea6ed2f080df4000697c90e",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ea6ed2f080df4000697c90e", "5ea6ed2f080df4000697c90b"],
     "capsules": ["5e9e2c5cf3591869b63b2670"],
     "payloads": ["5eb0e4cbb6c3bb0006eeb237"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -7107,11 +7059,7 @@
     "failures": [],
     "details": "This mission will launch the seventh batch of operational Starlink satellites, which are expected to be version 1.0, from SLC-40, Cape Canaveral AFS. It is the eighth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude of 550 km. The booster for this mission is expected to land on JRTI on its first mission since arriving at Port Canaveral.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c908",
-      "5ea6ed2e080df4000697c907",
-      "5ee68c683c228f36bd5809b5"
-    ],
+    "ships": ["5ea6ed2e080df4000697c908", "5ea6ed2e080df4000697c907", "5ee68c683c228f36bd5809b5"],
     "capsules": [],
     "payloads": ["5eb0e4d1b6c3bb0006eeb256"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -7160,9 +7108,7 @@
       },
       "flickr": {
         "small": [],
-        "original": [
-          "https://live.staticflickr.com/65535/50009748327_93e52a451f_o.jpg"
-        ]
+        "original": ["https://live.staticflickr.com/65535/50009748327_93e52a451f_o.jpg"]
       },
       "presskit": null,
       "webcast": "https://youtu.be/8riKQXChPGg",
@@ -7179,11 +7125,7 @@
     "failures": [],
     "details": "This mission will launch the eighth batch of operational Starlink satellites, which are expected to be version 1.0, from SLC-40, Cape Canaveral AFS. It is the ninth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude of 550 km. This mission is includes rideshare payloads, SkySats 16-18, on top of the Starlink stack. The booster for this mission is expected to land an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c908",
-      "5ea6ed2e080df4000697c907",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed2e080df4000697c908", "5ea6ed2e080df4000697c907", "5ea6ed2f080df4000697c90b"],
     "capsules": [],
     "payloads": ["5eb0e4d1b6c3bb0006eeb258"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -7328,11 +7270,7 @@
     "failures": [],
     "details": "SpaceX will launch ANASIS-II, a South Korean geostationary military communication satellite from LC-39A, Kennedy Space Center. It will be South Korea's first dedicated military communications satellite. Falcon 9 will deliver the satellite to a geostationary transfer orbit. The booster is expected to land downrange on an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c908",
-      "5ea6ed2e080df4000697c907",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed2e080df4000697c908", "5ea6ed2e080df4000697c907", "5ea6ed2f080df4000697c90b"],
     "capsules": [],
     "payloads": ["5eb0e4d2b6c3bb0006eeb25b"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -7622,11 +7560,7 @@
     "failures": [],
     "details": "This mission will launch the eleventh batch of operational Starlink satellites, which are expected to be version 1.0, from SLC-40, Cape Canaveral Air Force Station. It is the twelfth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude of 550 km. The booster for this mission is expected to land on an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed2e080df4000697c908",
-      "5ea6ed2f080df4000697c90b",
-      "5ee68c683c228f36bd5809b5"
-    ],
+    "ships": ["5ea6ed2e080df4000697c908", "5ea6ed2f080df4000697c90b", "5ee68c683c228f36bd5809b5"],
     "capsules": [],
     "payloads": ["5ef6a4600059c33cee4a829e"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -7920,11 +7854,7 @@
     "failures": [],
     "details": "SpaceX will launch GPS Block III Space Vehicle 04 from SLC-40, Cape Canaveral AFS aboard a Falcon 9. GPS III is owned and operated by the US Air Force and produced by Lockheed Martin. This will be the fourth GPS III satellite launched and the third launched by SpaceX. The satellite will be delivered into a MEO transfer orbit. The booster for this mission will land on an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ee68c683c228f36bd5809b5",
-      "5ea6ed2e080df4000697c907"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ee68c683c228f36bd5809b5", "5ea6ed2e080df4000697c907"],
     "capsules": [],
     "payloads": ["5eb0e4d2b6c3bb0006eeb25e"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -8243,11 +8173,7 @@
     "failures": [],
     "details": "SpaceX's 21st ISS resupply mission on behalf of NASA and the first under the CRS-2 contract, this mission brings essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the Nanoracks Bishop Airlock. Falcon 9 and Dragon launch from LC-39A, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with return and recovery of the Dragon capsule and down cargo.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed2f080df4000697c90d"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ea6ed2f080df4000697c90b", "5ea6ed2f080df4000697c90d"],
     "capsules": ["5fbb0f8fec55b34eb9f35c14"],
     "payloads": ["5eb0e4d3b6c3bb0006eeb262"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -8318,11 +8244,7 @@
     "failures": [],
     "details": "SpaceX will launch the first of two next generation high power S-band broadcast satellites for SiriusXM. The spacecraft will be delivered into a geostationary transfer orbit and the booster will be recovered downrange. The spacecraft is built by Space Systems Loral (SSL) on the SSL 1300 platform and includes two solar arrays producing 20kW, and an unfurlable antenna dish. SXM-7 will replace XM-3 in geostationary orbit.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ee68c683c228f36bd5809b5",
-      "5ea6ed2f080df4000697c90c"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ee68c683c228f36bd5809b5", "5ea6ed2f080df4000697c90c"],
     "capsules": [],
     "payloads": ["5eb0e4d2b6c3bb0006eeb25d"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -8753,9 +8675,7 @@
       },
       "flickr": {
         "small": [],
-        "original": [
-          "https://live.staticflickr.com/65535/50949943433_87e3002307_o.jpg"
-        ]
+        "original": ["https://live.staticflickr.com/65535/50949943433_87e3002307_o.jpg"]
       },
       "presskit": null,
       "webcast": "https://youtu.be/L0dkyV09Zso",
@@ -9096,11 +9016,7 @@
       "reused": true,
       "recovery_attempt": true,
       "recovered": null,
-      "ships": [
-        "6059166413f40e27e8af34b6",
-        "5ea6ed2f080df4000697c90b",
-        "5ea6ed2e080df4000697c908"
-      ]
+      "ships": ["6059166413f40e27e8af34b6", "5ea6ed2f080df4000697c90b", "5ea6ed2e080df4000697c908"]
     },
     "links": {
       "patch": {
@@ -9135,11 +9051,7 @@
     "failures": [],
     "details": "This mission launches the 23rd batch of operational Starlink satellites, which are version 1.0, from or SLC-40 or LC-39A. It is the 24th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ee68c683c228f36bd5809b5",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ee68c683c228f36bd5809b5", "5ea6ed2f080df4000697c90b"],
     "capsules": [],
     "payloads": ["60428b02c041c16716f73cde"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -9376,11 +9288,7 @@
     "failures": [],
     "details": "This mission launches the 25th batch of operational Starlink satellites, which are version 1.0, from LC-39A. It is the 26th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on OCISLY.",
     "crew": [],
-    "ships": [
-      "608c1a06cf7f3d6152666ad4",
-      "5ea6ed30080df4000697c913",
-      "6059166413f40e27e8af34b6"
-    ],
+    "ships": ["608c1a06cf7f3d6152666ad4", "5ea6ed30080df4000697c913", "6059166413f40e27e8af34b6"],
     "capsules": [],
     "payloads": ["605b4befaa5433645e37d047"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -9446,11 +9354,7 @@
     "failures": [],
     "details": "This mission launches the 26th batch of operational Starlink satellites, which are version 1.0, from SLC-40. It is the 27th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ee68c683c228f36bd5809b5",
-      "6059166413f40e27e8af34b6"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ee68c683c228f36bd5809b5", "6059166413f40e27e8af34b6"],
     "capsules": [],
     "payloads": ["6079bd5e9a06446e8c61bf7c"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -9678,11 +9582,7 @@
     "failures": [],
     "details": "SpaceX's 22nd ISS resupply mission on behalf of NASA, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.",
     "crew": [],
-    "ships": [
-      "5ea6ed2f080df4000697c90b",
-      "608c1a06cf7f3d6152666ad4",
-      "5ea6ed30080df4000697c913"
-    ],
+    "ships": ["5ea6ed2f080df4000697c90b", "608c1a06cf7f3d6152666ad4", "5ea6ed30080df4000697c913"],
     "capsules": ["60b803421f83cc1e59f1644d"],
     "payloads": ["5fe3b642b3467846b324217b"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -9830,11 +9730,7 @@
     "failures": [],
     "details": "SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.",
     "crew": [],
-    "ships": [
-      "60c8c7a45d4819007ea69871",
-      "5ee68c683c228f36bd5809b5",
-      "5ea6ed2f080df4000697c910"
-    ],
+    "ships": ["60c8c7a45d4819007ea69871", "5ee68c683c228f36bd5809b5", "5ea6ed2f080df4000697c910"],
     "capsules": [],
     "payloads": ["5eb0e4d2b6c3bb0006eeb261"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -10122,11 +10018,7 @@
         "role": "Mission Specialist"
       }
     ],
-    "ships": [
-      "5ea6ed2f080df4000697c910",
-      "5ee68c683c228f36bd5809b5",
-      "614251b711a64135defb3654"
-    ],
+    "ships": ["5ea6ed2f080df4000697c910", "5ee68c683c228f36bd5809b5", "614251b711a64135defb3654"],
     "capsules": ["5f6f99fddcfdf403df379709"],
     "payloads": ["607a382f5a906a44023e0867"],
     "launchpad": "5e9e4502f509094188566f88",
@@ -10364,11 +10256,7 @@
     "failures": [],
     "details": "NASA's Double Asteroid Redirect Test (DART) will demonstrate the use of a kinetic impactor to alter an asteroid's trajectory, an intervention that could be used in the future to prevent devastating Earth impacts. The target system consists of Didymos, 780 meters in diameter, and its moonlet Dimorphos, 160 meters. The DART spacecraft will intercept the double asteroid, using autonomous guidance to crash into the smaller one. Moving at about 6 km/s, the transferred momentum should alter Dimorphos's 12 hour orbital period around its companion by several minutes. The mission tests several technologies, including the Small-body Maneuvering Autonomous Real-Time Navigation (SMART Nav) used to differentiate and steer toward the target body and Roll-Out Solar Arrays (ROSA) with Transformational Solar Array concentrators. NASA’s Evolutionary Xenon Thruster — Commercial (NEXT–C) ion engine will also be demonstrated, although the spacecraft's primary propulsion is hydrazine thrusters. DART should arrive at Didymos in late September 2022, when it is about 11 million kilometers from Earth. Ten days before impact, the Italian Space Agency's cubesat LICIACube will be deployed to observe the collision and ejecta with its two cameras. Earth-based telescopes will be used to measure the altered orbit.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ea6ed2f080df4000697c90b",
-      "5ea6ed30080df4000697c912"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ea6ed2f080df4000697c90b", "5ea6ed30080df4000697c912"],
     "capsules": [],
     "payloads": ["5fe3c4a6b3467846b3242192"],
     "launchpad": "5e9e4502f509092b78566f87",
@@ -10438,11 +10326,7 @@
     "failures": [],
     "details": null,
     "crew": [],
-    "ships": [
-      "5ea6ed2d080df4000697c904",
-      "618fad7e563d69573ed8caa9",
-      "5ee68c683c228f36bd5809b5"
-    ],
+    "ships": ["5ea6ed2d080df4000697c904", "618fad7e563d69573ed8caa9", "5ee68c683c228f36bd5809b5"],
     "capsules": [],
     "payloads": ["6161d0f26db1a92bfba85355"],
     "launchpad": "5e9e4501f509094ba4566f84",
@@ -10582,11 +10466,7 @@
     "failures": [],
     "details": "The mission consists in launching 52 Starlink v1.5 satellites to Shell number 4 at 53.2°. This is unusual as the mission is launching from Vandenberg as these missions usually launch from the East Coast.",
     "crew": [],
-    "ships": [
-      "5ea6ed30080df4000697c913",
-      "5ea6ed30080df4000697c912",
-      "5ea6ed2f080df4000697c90b"
-    ],
+    "ships": ["5ea6ed30080df4000697c913", "5ea6ed30080df4000697c912", "5ea6ed2f080df4000697c90b"],
     "capsules": [],
     "payloads": ["61bbac16437241381bf70632"],
     "launchpad": "5e9e4502f509092b78566f87",
