@@ -10,7 +10,6 @@ const { id } = Astro.params;
 let launch: Launch | null = null;
 if (id) {
   launch = await getLaunchBy({ id });
-  console.log("Launch data fetched:", launch?.id);
 }
 ---
 
